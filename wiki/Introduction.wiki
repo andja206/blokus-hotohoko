@@ -6,5 +6,6 @@ There are four pioneer in this project namely Chan Han Lin, Lee Kang Jun, Le Hon
 
 Blokus-HoToHoKo will continue its development even it is no longer as part of the university requirement. The long-term vision, as claimed by one of the pioneer, Chan Han Lin, of Blokus-HoToHoKo is built a machine learning artificial intelligence that can beat human intelligence. Upon completion of V0.2, the fundamental architecture (without learning) of machine learning AI has developed.
 
-Our team email address is blokus.hotohoko@gmail.com 
-Our blog is available at [http://blokus-hotohoko.blogspot.com/ here]
+Our team email address is blokus.hotohoko@gmail.com .
+
+Our blog is available at [http://blokus-hotohoko.blogspot.com/ here].
