@@ -1,7 +1,5 @@
 http://blokus-hotohoko.googlecode.com/files/Blokus_HoToHoKo.png
 
-= Blokus-HoToHoKo =
-
 Blokus-HoToHoKo is built upon the initiation of CS2103 project as part of the academic requirement in academic year 2010/2011 semester 1. CS2103 is a level-2000 subject that studies about software engineering and it is an essential module for computer science department of National University of Singapore (NUS). This project constitutes overall 35% divided into two iterations with two scaled-down versions namely V0.1 and V0.2.
 
 There are four pioneer in this project namely Chan Han Lin, Lee Kang Jun, Le Hong Trieu and Hu He. The proof of this project is available at http://www.comp.nus.edu.sg/~cs2103/AY1011S1projects/ under team B03.
